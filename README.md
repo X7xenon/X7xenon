@@ -71,8 +71,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=X7xenon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=X7xenon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9" height="165" alt="Top Languages" />
+<img src="./stats.svg" height="165" alt="GitHub Stats" />
+<img src="./languages.svg" height="165" alt="Top Languages" />
 
 </div>
 

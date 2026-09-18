@@ -1,0 +1,28 @@
+﻿name: Refresh Telemetry SVGs
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Updated SVGs
+        run: |
+          curl -s "https://github-readme-stats-eight-theta.vercel.app/api?username=X7xenon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9" -o stats.svg
+          curl -s "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=X7xenon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9" -o languages.svg
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg languages.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: refresh telemetry SVGs" && git push)
