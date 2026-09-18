@@ -1,4 +1,4 @@
-﻿import base64
+import base64
 import os
 
 font_dir = r"X:\Millionaire\ALfred-android\app\src\main\res\font"
@@ -121,24 +121,24 @@ languages_svg = f"""<svg width="480" height="220" viewBox="0 0 480 220" fill="no
   <g transform="translate(24, 85)">
     <circle cx="4" cy="10" r="3.5" fill="#FFFFFF" />
     <text x="16" y="14" class="mono-lang">TYPESCRIPT</text>
-    <text x="112" y="14" class="mono-pct">55.96%</text>
-    <text x="175" y="14" class="mono-desc">// CREATOROS &amp; VIDEO AUTOMATION UI</text>
+    <text x="150" y="14" class="mono-pct">55.96%</text>
+    <text x="220" y="14" class="mono-desc">// CREATOROS &amp; VIDEO AUTOMATION UI</text>
   </g>
 
   <!-- Language 02: Python -->
   <g transform="translate(24, 125)">
     <circle cx="4" cy="10" r="3.5" fill="#00E676" />
     <text x="16" y="14" class="mono-lang">PYTHON</text>
-    <text x="112" y="14" class="mono-pct">41.91%</text>
-    <text x="175" y="14" class="mono-desc">// APOLLO AGENTS &amp; VISION RUNTIMES</text>
+    <text x="150" y="14" class="mono-pct">41.91%</text>
+    <text x="220" y="14" class="mono-desc">// APOLLO AGENTS &amp; VISION RUNTIMES</text>
   </g>
 
   <!-- Language 03: Native Mobile & Systems -->
   <g transform="translate(24, 165)">
     <circle cx="4" cy="10" r="3.5" fill="#D71921" />
     <text x="16" y="14" class="mono-lang">KOTLIN / RUST</text>
-    <text x="112" y="14" class="mono-pct">NATIVE</text>
-    <text x="175" y="14" class="mono-desc">// ALFRED OS &amp; NOTHING GLYPH AIDL IPC</text>
+    <text x="150" y="14" class="mono-pct">NATIVE</text>
+    <text x="220" y="14" class="mono-desc">// ALFRED OS &amp; NOTHING GLYPH AIDL IPC</text>
   </g>
 </svg>"""
 
@@ -149,3 +149,4 @@ with open(os.path.join(out_dir, "languages.svg"), "w", encoding="utf-8") as f:
     f.write(languages_svg)
 
 print("Generated Nothing Dot Style SVGs successfully!")
+
