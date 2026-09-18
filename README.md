@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
-# ⚡ XENON
-### Systems & AI Engineer • Autonomous Agent Architect • Builder
+# XENON
+### Systems & AI Engineer // Autonomous Agent Architect // Builder
 
 [![Instagram](https://img.shields.io/badge/Instagram-@theabeerkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theabeerkumar)
 [![YouTube](https://img.shields.io/badge/YouTube-@theabeerkumar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@theabeerkumar)
@@ -28,30 +28,30 @@
 
 ---
 
-### 🏛️ Flagship Architectures & Engineering
+### 01 // Flagship Architectures & Engineering
 
-#### 🚀 [Apollo](https://github.com/X7xenon) — Autonomous Multi-Subagent Platform & Antigravity Supervisor
+#### [Apollo](https://github.com/X7xenon) — Autonomous Multi-Subagent Platform & Antigravity Supervisor
 *Inspired by the Grok Society of Minds debate architecture and next-gen agent harnesses.*
 - **Agent-to-Agent (A2A) Protocol**: Asynchronous peer-to-peer pub/sub message bus enabling specialized subagents (`Researcher`, `Coder`, `Overseer`) to debate, critique hypotheses, cross-examine evidence, and reach verified consensus.
-- **Jarvis Antigravity Live Supervisor**: Continuous daemon monitoring live Google Antigravity task streams, subagent trees, and tool execution logs with natural audio/terminal briefings.
+- **Jarvis Antigravity Live Supervisor**: Continuous daemon monitoring live Google Antigravity task streams, subagent trees, and tool execution logs with natural audio and terminal briefings.
 - **Model Context Protocol (MCP) Hub**: Dynamic discovery and bridging of local MCP tools (Playwright, Gmail, Notion, SQLite, Mem0) with auto-detection for Gemini, Claude, and local LLM routers.
 
-#### 🛡️ [ALFRED OS](https://github.com/X7xenon/Alfred) — Sovereign Local-First Knowledge & Executive Butler
+#### [ALFRED OS](https://github.com/X7xenon/Alfred) — Sovereign Local-First Knowledge & Executive Butler
 *Dual-runtime personal operating system engineered for zero-cloud custody and high-leverage execution.*
 - **Desktop System (Tauri v2 + Rust + Python FastAPI + React)**: Local knowledge engine featuring hybrid lexical (SQLite FTS5 BM25) and semantic vector retrieval with bi-directional, marker-preserving Obsidian Vault synchronization.
 - **Mobile System ([ALfred Android](https://github.com/X7xenon/ALfred-android) // Nothing Phone 3a Native)**: Jetpack Compose & Glance Butler OS integrating directly with Nothing's hardware Glyph interface via custom AIDL IPC for AI breathing states and real-time execution telemetry.
 
-#### 🎬 [XenClips Studio](https://github.com/X7xenon/XenClips) — Full-Stack AI Video Automation Engine
+#### [XenClips Studio](https://github.com/X7xenon/XenClips) — Full-Stack AI Video Automation Engine
 *Self-hosted video pipeline converting long-form podcasts and streams into viral short-form media on local hardware.*
 - **Automated Intelligence Pipeline**: Powered by OpenAI Whisper (`large-v3-turbo`) for high-fidelity speech-to-text, coupled with YOLOv8 face-tracking and dynamic active-speaker framing.
 - **Cinematic Render Engine**: Emotional peak analysis, multi-track SFX ducking, and word-by-word animated ASS caption generation with custom typography and anti-ban scheduling algorithms.
 
-#### 🏎️ [CreatorOS](https://github.com/X7xenon/CreatorOS) — Domain-Driven Creator Analytics & Telemetry
+#### [CreatorOS](https://github.com/X7xenon/CreatorOS) — Domain-Driven Creator Analytics & Telemetry
 - Modular Domain-Driven Design (DDD) platform aggregating multi-platform data across YouTube, Instagram, and TikTok with Formula-1 inspired performance telemetry curves.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 02 // Technical Arsenal
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 Telemetry & Systems Activity
+### 03 // Telemetry & Systems Activity
 
 <div align="center">
 
@@ -79,5 +79,5 @@
 <br/>
 
 <div align="center">
-  <sub>Engineered with precision • Built for autonomy • Powered by sovereign computation</sub>
+  <sub>Engineered with precision // Built for autonomy // Powered by sovereign computation</sub>
 </div>
