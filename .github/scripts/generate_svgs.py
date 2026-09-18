@@ -1,4 +1,4 @@
-import base64
+﻿import base64
 import os
 
 font_dir = r"X:\Millionaire\ALfred-android\app\src\main\res\font"
