@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
-# ⚡ XENON // ABEER KUMAR
-### Systems & AI Engineer • Autonomous Agent Architect • Creator
+# ⚡ XENON
+### Systems & AI Engineer • Autonomous Agent Architect • Builder
 
 [![Instagram](https://img.shields.io/badge/Instagram-@theabeerkumar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theabeerkumar)
 [![YouTube](https://img.shields.io/badge/YouTube-@theabeerkumar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@theabeerkumar)
@@ -10,12 +10,13 @@
 <br/>
 
 ```
-      ███████ ██   ██ ███████ ███    ██  ██████  ███    ██ 
-      ██       ██ ██  ██      ████   ██ ██    ██ ████   ██ 
-      ███████   ███   █████   ██ ██  ██ ██    ██ ██ ██  ██ 
-           ██  ██ ██  ██      ██  ██ ██ ██    ██ ██  ██ ██ 
-      ███████ ██   ██ ███████ ██   ████  ██████  ██   ████ 
-   [ SYSTEMS BUILDER // AUTONOMOUS SWARMS // LOCAL-FIRST INTELLIGENCE ]
+██   ██  ███████  ███    ██   ██████   ███    ██
+ ██ ██   ██       ████   ██  ██    ██  ████   ██
+  ███    █████    ██ ██  ██  ██    ██  ██ ██  ██
+ ██ ██   ██       ██  ██ ██  ██    ██  ██  ██ ██
+██   ██  ███████  ██   ████   ██████   ██   ████
+
+   [ SYSTEMS BUILDER // AUTONOMOUS AGENTS // LOCAL-FIRST ]
 ```
 
 <p align="center">
@@ -28,19 +29,6 @@
 ---
 
 ### 🏛️ Flagship Architectures & Engineering
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                 CORE ARCHITECTURAL PILLARS                                  │
-├──────────────────────────────┬──────────────────────────────┬───────────────────────────────┤
-│ 01 // APOLLO                 │ 02 // ALFRED OS              │ 03 // XENCLIPS STUDIO         │
-│ Autonomous Multi-Agent Swarm │ Sovereign Local-First OS     │ End-to-End AI Video Engine    │
-│ • P2P Agent-to-Agent (A2A)   │ • Tauri v2 + Rust + FastAPI  │ • Whisper Large-v3 Turbo STT  │
-│ • Multi-Agent Debate Loops   │ • SQLite FTS5 Hybrid Search  │ • YOLOv8 Auto-Crop Tracking   │
-│ • Live Antigravity Supervisor│ • Nothing OS 3a Glyph AIDL   │ • Dynamic ASS Word Animations │
-│ • Multi-Gateway (CLI/WS/Bot) │ • Biometric Telemetry Center │ • SFX Engine & Anti-Ban Queue │
-└──────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
-```
 
 #### 🚀 [Apollo](https://github.com/X7xenon) — Autonomous Multi-Subagent Platform & Antigravity Supervisor
 *Inspired by the Grok Society of Minds debate architecture and next-gen agent harnesses.*
