@@ -1,8 +1,17 @@
 import base64
 import os
 
-font_dir = r"X:\Millionaire\ALfred-android\app\src\main\res\font"
-out_dir = r"C:\Users\kumar\.gemini\antigravity\scratch\X7xenon"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_root = os.path.abspath(os.path.join(script_dir, "..", ".."))
+
+# Resolve font directory from repository's .github/fonts
+font_dir = os.path.join(repo_root, ".github", "fonts")
+if not os.path.exists(os.path.join(font_dir, "ndot57.otf")):
+    alt_font = r"X:\Millionaire\ALfred-android\app\src\main\res\font"
+    if os.path.exists(alt_font):
+        font_dir = alt_font
+
+out_dir = repo_root
 
 with open(os.path.join(font_dir, "ndot57.otf"), "rb") as f:
     ndot57_b64 = base64.b64encode(f.read()).decode("ascii")
